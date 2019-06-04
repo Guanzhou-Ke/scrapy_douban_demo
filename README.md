@@ -1,0 +1,2 @@
+# scrapy_douban_demo
+Scrapy爬取豆瓣电影及影评演示
